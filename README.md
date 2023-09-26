@@ -30,9 +30,6 @@ I'm a Software Developer
     <td valign="top" width="36%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhusendev&langs_count=5&hide_border=false&theme=algolia" align="left" style="width: 100%" />
 </td>
-    <td valign="top" width="64%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhusendev&show_icons=true&count_private=true&hide_border=false&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
-     
-</td>
+
   </tr>
 </table>
